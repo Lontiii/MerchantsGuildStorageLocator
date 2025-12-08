@@ -1,0 +1,2 @@
+# MerchantsGuildStorageLocator
+for updates
