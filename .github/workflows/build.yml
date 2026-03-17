@@ -3,12 +3,13 @@ name: Build App
 on:
   push:
     tags:
-      - "v*"       # Runs when you push a tag like v1.6
-  workflow_dispatch:  # Lets you run it manually from GitHub
+      - "v*"
+  workflow_dispatch:
 
 jobs:
   build:
     strategy:
+      fail-fast: false
       matrix:
         include:
           - os: windows-latest
