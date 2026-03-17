@@ -20,9 +20,9 @@ jobs:
             name: Linux
             artifact: storage_locator_app
             icon_flag: ""
-          - os: macos-latest
-            name: macOS
-            artifact: storage_locator_app
+          - os: macos-13
+            artifact_name: storage_locator_app
+            asset_name: storage_locator_app-macOS
             icon_flag: ""
 
     runs-on: ${{ matrix.os }}
