@@ -1,0 +1,86 @@
+name: Build App
+
+on:
+  push:
+    tags:
+      - "v*"       # Runs when you push a tag like v1.6
+  workflow_dispatch:  # Lets you run it manually from GitHub
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            name: Windows
+            artifact: storage_locator_app.exe
+            icon_flag: "--icon=merchants_guild_logo.ico"
+          - os: ubuntu-latest
+            name: Linux
+            artifact: storage_locator_app
+            icon_flag: ""
+          - os: macos-latest
+            name: macOS
+            artifact: storage_locator_app
+            icon_flag: ""
+
+    runs-on: ${{ matrix.os }}
+    name: Build ${{ matrix.name }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tkinter (Linux)
+        if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y python3-tk
+
+      - name: Install dependencies
+        run: pip install pyinstaller
+
+      - name: Build executable
+        run: >
+          pyinstaller --onefile --windowed
+          --add-data "records.json${{ runner.os == 'Windows' && ';' || ':' }}."
+          --add-data "merchants_guild_logo.png${{ runner.os == 'Windows' && ';' || ':' }}."
+          --add-data "bakkosound.wav${{ runner.os == 'Windows' && ';' || ':' }}."
+          ${{ matrix.icon_flag }}
+          --name storage_locator_app
+          storage_locator_app.py
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: storage_locator_app-${{ matrix.name }}
+          path: dist/${{ matrix.artifact }}
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Rename files for release
+        run: |
+          mv artifacts/storage_locator_app-Windows/storage_locator_app.exe artifacts/storage_locator_app-Windows.exe
+          mv artifacts/storage_locator_app-Linux/storage_locator_app artifacts/storage_locator_app-Linux
+          mv artifacts/storage_locator_app-macOS/storage_locator_app artifacts/storage_locator_app-macOS
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            artifacts/storage_locator_app-Windows.exe
+            artifacts/storage_locator_app-Linux
+            artifacts/storage_locator_app-macOS
