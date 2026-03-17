@@ -74,14 +74,15 @@ jobs:
 
       - name: Rename files for release
         run: |
-          mv artifacts/storage_locator_app-Windows/storage_locator_app.exe artifacts/storage_locator_app-Windows.exe
-          mv artifacts/storage_locator_app-Linux/storage_locator_app artifacts/storage_locator_app-Linux
-          mv artifacts/storage_locator_app-macOS/storage_locator_app artifacts/storage_locator_app-macOS
+          cp artifacts/storage_locator_app-Windows/storage_locator_app.exe artifacts/storage_locator_app-Windows.exe
+          cp artifacts/storage_locator_app-Linux/storage_locator_app artifacts/storage_locator_app-Linux.bin
+          cp artifacts/storage_locator_app-macOS/storage_locator_app artifacts/storage_locator_app-macOS.bin
+
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
             artifacts/storage_locator_app-Windows.exe
-            artifacts/storage_locator_app-Linux
-            artifacts/storage_locator_app-macOS
+            artifacts/storage_locator_app-Linux.bin
+            artifacts/storage_locator_app-macOS.bin
