@@ -1,0 +1,6113 @@
+[
+  {
+    "item": "White Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Light Gray Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Gray Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Black Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Brown Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Red Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Orange Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Yellow Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Lime Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Green Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Cyan Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Light Blue Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Blue Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Purple Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Magenta Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Pink Carpet",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "White Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Light Gray Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Gray Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Black Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Brown Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Red Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Orange Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Yellow Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Lime Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Green Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Cyan Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Light Blue Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Blue Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Purple Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Magenta Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Pink Concrete Powder",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Lime Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Green Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Cyan Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Light Blue Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Blue Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Purple Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Magenta Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Pink Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "White Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Light Gray Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Gray Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Black Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Brown Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Red Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Orange Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Yellow Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Lime Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Green Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Cyan Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Light Blue Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Blue Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Purple Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Magenta Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Pink Dye ",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "White Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Light Gray Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Gray Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Black Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Brown Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Red Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Orange Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Yellow Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Lime Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Green Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Cyan Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Light Blue Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Blue Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Purple Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Magenta Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Pink Stained Glass Pane",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Lime Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Green Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Cyan Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Light Blue Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Blue Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 37
+  },
+  {
+    "item": "Purple Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Magenta Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Pink Glazed Terracotta",
+    "tower": "North",
+    "floor": 1,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "Stone",
+    "tower": "East",
+    "floor": 1,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Dirt",
+    "tower": "East",
+    "floor": 1,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Cobblestone",
+    "tower": "East",
+    "floor": 1,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Calcite",
+    "tower": "East",
+    "floor": 1,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Deepslate",
+    "tower": "East",
+    "floor": 1,
+    "side": "left",
+    "value": 5
+  },
+ {
+    "item": "Gravel",
+    "tower": "East",
+    "floor": 1,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Grass Block",
+    "tower": "East",
+    "floor": 1,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Sand",
+    "tower": "East",
+    "floor": 1,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Glass",
+    "tower": "East",
+    "floor": 1,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Cobbled Deepslate",
+    "tower": "East",
+    "floor": 1,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Oak Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Spruce Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Birch Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Jungle Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Acacia Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Dark Oak Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Mangrove Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Cherry Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Crimson Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Warped Button",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Oak Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Spruce Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Birch Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Jungle Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Acacia Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Dark Oak Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Mangrove Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Cherry Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Crimson Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Warped Pressure Plate",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Oak Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Spruce Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Birch Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Jungle Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Acacia Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Dark Oak Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Mangrove Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Cherry Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Crimson Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Warped Trapdoor",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Oak Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Spruce Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Birch Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Jungle Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Acacia Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Dark Oak Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Mangrove Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 37
+  },
+  {
+    "item": "Cherry Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Crimson Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Warped Door",
+    "tower": "South",
+    "floor": 1,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "Stone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Cobblestone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Mossy Cobblestone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Stone Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Mossy Stone Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Andesite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Polished Andesite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Diorite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Polished Diorite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Deepslate Tile Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Polished Deepslate Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Cobbled Deepslate Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Polished Deepslate Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Deepslate Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Granite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Polished Granite Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Blackstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Polished Blackstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Polished Blackstone Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Sandstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Smooth Sandstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Red Sandstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Smooth Red Sandstone Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Mud Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Brick Stairs",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Stone Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Mossy Stone Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Cobblestone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Stone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Diorite Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Polished Diorite Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Cobbled Deepslate Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Polished Deepslate Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Deepslate Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Deepslate Tile Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Smooth Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Cut Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Blackstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Polished Blackstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "Polished Blackstone Brick Wall",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Blackstone Wall",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Cobblestone Wall",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Mossy Cobblestone Wall",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Stone Brick Wall",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Mud Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Stone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Cracked Stone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Mossy Cobblestone",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Mossy Stone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Sandstone ",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Smooth Sandstone ",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Cut Sandstone ",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Chiseled Sandstone ",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Cracked Polished Blackstone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Chiseled Polished Blackstone",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Polished Blackstone",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Polished Blackstone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Blackstone",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Deepslate Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Polished Deepslate",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Chiseled Deepslate",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Polished Diorite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Diorite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Polished Granite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Granite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Andesite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Polished Andesite",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Chiseled Stone Bricks",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Smooth Stone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Mossy Cobblestone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Mud Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Red Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Red Smooth Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Cut Sandstone Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 37
+  },
+  {
+    "item": "Granite Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Polished Granite Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Polished Blackstone Brick Slab",
+    "tower": "West",
+    "floor": 1,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "White Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Light Gray Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Gray Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Black Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Brown Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Red Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Orange Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Yellow Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Lime Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Green Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Cyan Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Light Blue Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Blue Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Purple Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Magenta Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Pink Wool",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "White Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Light Gray Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Gray Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Black Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Brown Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Red Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Orange Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Yellow Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Lime Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Green Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Cyan Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Light Blue Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Blue Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Purple Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Magenta Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Pink Concrete ",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "White Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Light Gray Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Gray Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Black Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Brown Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Red Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Orange Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Yellow Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "White Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Light Gray Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Gray Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Black Carpet",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Brown Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Red Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Orange Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Yellow Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Lime Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Green Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Cyan Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Light Blue Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Blue Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Purple Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Magenta Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Pink Candle",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "White Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Light Gray Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Gray Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Black Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Brown Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Red Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Orange Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Yellow Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Lime Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Green Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Cyan Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Light Blue Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Blue Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Purple Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Magenta Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Pink Stained Glass ",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "White Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Light Gray Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Gray Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Black Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Brown Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 37
+  },
+  {
+    "item": "Red Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Orange Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Yellow Glazed Terracotta",
+    "tower": "North",
+    "floor": 2,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "Beehive",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Scaffolding",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Lodestone",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Beacon",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Bell",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Cauldron",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Brewing Stand",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Composter",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Anvil",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Blast Furnace",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Smoker",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Furnace",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Grindstone",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Smithing Table",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Stonecutter",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Crafting Table",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Bamboo Button",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Bamboo Pressure Plate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Bamboo Trapdoor",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Bamboo Door",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Bamboo Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Bamboo Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Bamboo Mosaic Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Bamboo Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Bamboo Mosaic Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Bamboo Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Bamboo Mosaic ",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Bamboo Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Block of Stripped Bamboo",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Block of Bamboo",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Oak Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Spruce Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Birch Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Jungle Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Acacia Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Dark Oak Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Mangrove Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 37
+  },
+  {
+    "item": "Cherry Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Crimson Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Warped Fence Gate",
+    "tower": "South",
+    "floor": 2,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "Tube Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Brain Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Bubble Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Fire Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Horn Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Tube Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Brain Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Bubble Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Fire Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Horn Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Tube Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Brain Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Bubble Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Fire Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Horn Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Dead Tube Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Dead Brain Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Dead Bubble Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Dead Fire Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Dead Horn Coral Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Dead Tube Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Dead Brain Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Dead Bubble Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Dead Fire Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Dead Horn Coral ",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Dead Tube Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Dead Brain Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Dead Bubble Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Dead Fire Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Dead Horn Coral Fan",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Small Amethyst Bud",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Medium Amethyst Bud",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Large Amethyst Bud",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Amethyst Cluster",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Dripstone Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Pointed Dripstone",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Obsidian",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Bone Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Soul Soil",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Soul Sand",
+    "tower": "West",
+    "floor": 2,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "Mossy Stone Brick Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Granite Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Diorite Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Andesite Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Cobbled Deepslate Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Polished Deepslate Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Deepslate Brick Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Deepslate Tile Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Brick Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Polished Blackstone Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Mud Brick Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Sandstone Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Red Sandstone Wall",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Stone Pressure Plate",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Stone Button",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Polished Blackstone Pressure Plate",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Polished Blackstone Button",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Moss Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Tuff",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Moss Carpet",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Magma Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Wither Skeleton Skull",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Smooth Stone",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Egg",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Signs",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Bucket",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Red Sand",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Warped Wart Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Nether Wart Block",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "End Rod",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Packed Mud",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Crimson Nylium",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Warped Nylium",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 33
+  },
+  {
+    "item": "Andesite Slab",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 34
+  },
+  {
+    "item": "Mycelium",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 35
+  },
+  {
+    "item": "Netherrack",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 36
+  },
+  {
+    "item": "Netherrack",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 37
+  },	
+  {
+    "item": "Bookshelf",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 38
+  },
+  {
+    "item": "Banners",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 39
+  },
+  {
+    "item": "Red Sandstone",
+    "tower": "West",
+    "floor": 2,
+    "side": "right",
+    "value": 40
+  },
+  {
+    "item": "Apple",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Golden Apple",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Enchanted Golden Apple",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Melon Slice",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Sweet Berries",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Glow Berries",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Chorus Fruit",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Carrot",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Golden Carrot",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Potato",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Baked Potato",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Bread",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Beetroot",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Dried Kelp",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Raw Beef",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Steak",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Raw Porkchop",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Cooked Porkchop",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Raw Mutton",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Cooked Mutton",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Raw Chicken",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Cooked Chicken",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Raw Rabbit",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Cooked Rabbit",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Raw Cod",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Cooked Cod",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Raw Salmon",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Cooked Salmon",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Tropical Fish",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Honey Bottle",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Cookie",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Pumpkin Pie",
+    "tower": "North",
+    "floor": 3,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Oak Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Spruce Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Birch Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Jungle Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Acacia Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Dark Oak Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Mangrova Propagule",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Cherry Sapling",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Flowering Azalea Leaves",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Sunflower",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Lilac",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Rose Bush",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Peony",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Pitcher Plant",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Big Dripleaf",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Small Dripleaf",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Wheat",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Melon",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Pumpkin",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Carved Pumpkin",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Glistering Melon Slice",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Rabbit's Foot",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Glass Bottle",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Blaze Powder",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Fermented Spider Eye",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Dragon's Breath",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Gunpowder",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Magma Cream",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Ghast Tear",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Phanton Membrane",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Sugar",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Nether Wart",
+    "tower": "North",
+    "floor": 3,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "String",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Bone",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Blaze Rod",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Ender Pearl",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Rotten Flesh",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Firework Star",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Shulker Shell",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Echo Shard",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Prismarine Shard",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Prismarine Crystals",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Nether Star",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Slimeball",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Nautilus Shell",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Fire Charge",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Leather",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Rabbit Hide",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Honeycomb",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Feather",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Ink Sac",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Glow Ink Sac",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Book",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Paper",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Clay Ball",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Turtle Scute",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Heart of the Sea",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Eye of Ender",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Name Tag",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "End Crystal",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Disc Fragment",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Bottle o' Enchanting",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Sponge",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Wet Sponge",
+    "tower": "South",
+    "floor": 3,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Coal",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Iron Ingot",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Gold Ingot",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Lapis Lazuli",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Redstone Dust",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Diamond",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Emerald",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Netherite Ingot",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Charcoal",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Raw Iron",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Raw Gold",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Raw Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Netherite Scrap",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Gold Nugget",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Iron Nugget",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Nether Quartu",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Deepslate Coal Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Deepslate IronOre",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Deepslate Copper Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Deepslate Gold Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Deepslate Redstone Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Deepslate Emerald Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Deepslate Lapis Lazuli Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Deepslate Diamond Ore",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Red Nether Bricks",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Red Nether Brick Stairs",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Red Nether Brick Slab",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Red Nether Brick Wall",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Basalt",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Smooth Basalt",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Polished Basalt",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Gilded Blackstone",
+    "tower": "West",
+    "floor": 3,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Podzol",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Dirt",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Coarse Dirt",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Rooted Dirt",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Mud",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Clay",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Mangrove Roots",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Muddy Mangrove Roots",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Ice",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Packed Ice",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Blue ice",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Snow Block",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Snow",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Red Mushroom Block",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Brown Mushroom Block",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Mushroom Stem",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Waxed Oxidized Cut Copper Slab",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Waxed Oxidized Cut Copper Stairs",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Waxed Oxidized Cut Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Waxed Oxidized Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Waxed Weathered Cut Copper Slab",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Waxed Weathered Cut Copper Stairs",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Waxed Weathered Cut Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Waxed Weathered Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Oxidized Cut Copper Slab",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Oxidized Cut Copper Stairs",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Oxidized Cut Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Oxidized Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Weathered Cut Copper Slab",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Weathered Cut Copper Stairs",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Weathered Cut Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Weathered Copper",
+    "tower": "West",
+    "floor": 3,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Dandelion",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Poppy",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Blue Orchid",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Allium",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Azure Bluet",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Red Tulip",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Orange Tulip",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "White Tulip",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Pink Tulip",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Oxeye Daisy",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Cornflower",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Lily of the Valley",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Torchflower",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Wither Rose",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Pink Petals",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Spore Blossom",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Bamboo",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Cactus",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Sugar Cane",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Warped Roots",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Crimson Roots",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Nether Sprouts",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Twisting Vines",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Weeping Vines",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Vines",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Flowering Azalea",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Azalea",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Chorus Flower",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Warped Fungus",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Crimson Fungus",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Red Mushroom",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Brown Mushroom",
+    "tower": "North",
+    "floor": 4,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Oak Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Spruce Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Birch Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Jungle Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Acacia Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Dark Oak Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Mangrova Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Cherry Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Azalea Leaves",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Melon Seeds",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Pumpkin Seeds",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Cocoa Beans",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Wheat Seeds",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Sniffer Egg",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Turtle Egg",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Glow Lichen",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Hanging Roots",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Lily Pad",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Sea Pickle",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Kelp",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Pitcher Pod",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Torchflower Seeds",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Beetroot Seeds",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Seagrass",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Dead Bush",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Ladder",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Grass Block",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Fern",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Short Grass",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Glowstone Dust",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Pufferfish",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Spider Eye",
+    "tower": "North",
+    "floor": 4,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Nether Brick",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Brick",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Bowl",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Chain",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Flower Pot",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Popped Chorus Fruit",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Stick",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Flint",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Snowball",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Bone Meal",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Lead",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Candle",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Jack o'Lantern",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Campfire",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Soul Campfire",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Torch",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Soul Torch",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Lantern",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Soul Lantern",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Ochre Froglight",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Verdant Froglight",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Pearlescent Froglight",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Respawn Anchor",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Crying Obsidian",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Shroomlight",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Glowstone",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Sea Lantern",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Redstone Lamp",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "TNT",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Iron Trapdoor",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Iron Door",
+    "tower": "South",
+    "floor": 4,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Block of Coal",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Block of Iron ",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Block of Gold ",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Block of Lapis Lazuli",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Block of Redstone ",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Block of Diamond",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Block of Emerald",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Block of Netherite ",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Amethyst Shard",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Block of Raw Iron",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Block of Raw Gold",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Block of Raw Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Ancient Debris",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Nether Gold Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Copper Ingot",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Nether Quartz Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Coal Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "IronOre",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Copper Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Gold Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Redstone Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Emerald Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Lapis Lazuli Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Diamond Ore",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Netherrack",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Nether Bricks",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Cracked Nether Bricks",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Nether Brick Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Nether Brick Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Nether Brick Wall",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Nether Brick Fence",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Chiseled Nether Bricks",
+    "tower": "West",
+    "floor": 4,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Iron Bars",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 1
+  },
+  {
+    "item": "Deepslate Tiles",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 2
+  },
+  {
+    "item": "Cobweb",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 3
+  },
+  {
+    "item": "Honeycomb Block",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 4
+  },
+  {
+    "item": "Hay Bale",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 5
+  },
+  {
+    "item": "Budding Amethyst",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 6
+  },
+  {
+    "item": "Block of Amethyst",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 7
+  },
+  {
+    "item": "Quartz Bricks",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 8
+  },
+  {
+    "item": "Quartz Pillar",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 9
+  },
+  {
+    "item": "Chiseled Quartz Block",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 10
+  },
+  {
+    "item": "Smooth Quartz Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 11
+  },
+  {
+    "item": "Smooth Quartz Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 12
+  },
+  {
+    "item": "Smooth Quartz Block",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 13
+  },
+  {
+    "item": "Quartz Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 14
+  },
+  {
+    "item": "Quartz Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 15
+  },
+  {
+    "item": "Block of Quartz",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 16
+  },
+  {
+    "item": "Waxed Exposed Cut Copper Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 17
+  },
+  {
+    "item": "Waxed Exposed Cut Copper Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 18
+  },
+  {
+    "item": "Waxed Exposed Cut Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 19
+  },
+  {
+    "item": "Waxed Exposed Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 20
+  },
+  {
+    "item": "Waxed Cut Copper Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 21
+  },
+  {
+    "item": "Waxed Cut Copper Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 22
+  },
+  {
+    "item": "Waxed Cut Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 23
+  },
+  {
+    "item": "Waxed Block of Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 24
+  },
+  {
+    "item": "Cut Copper Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 25
+  },
+  {
+    "item": "Cut Copper Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 26
+  },
+  {
+    "item": "Cut Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 27
+  },
+  {
+    "item": "Block of Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 28
+  },
+  {
+    "item": "Exposed Cut Copper Slab",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 29
+  },
+  {
+    "item": "Exposed Cut Copper Stairs",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 30
+  },
+  {
+    "item": "Exposed Cut Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 31
+  },
+  {
+    "item": "Exposed Copper",
+    "tower": "West",
+    "floor": 4,
+    "side": "right",
+    "value": 32
+  },
+  {
+    "item": "Oak Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Spruce Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Birch Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Jungle Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Acacia Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Dark Oak Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Mangrove Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Cherry Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Crimson Stem",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Warped Stem",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Oak Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Spruce Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Birch Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Jungle Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Acacia Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Dark Oak Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Mangrove Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Cherry Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Crimson Hyphae",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Warped Hyphae",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Stripped Oak Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Stripped Spruce Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Stripped Birch Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Stripped Jungle Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Stripped Acacia Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Stripped Dark Oak Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Stripped Mangrove Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Stripped Cherry Log",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Stripped Crimson Stem",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Stripped Warped Stem",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Stripped Oak Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Stripped Spruce Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Stripped Birch Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Stripped Jungle Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Stripped Acacia Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Stripped Dark Oak Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Stripped Mangrove Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Stripped Cherry Wood",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Stripped Crimson Hyphae",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Stripped Warped Hyphae",
+    "tower": "South",
+    "floor": 1,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "Oak Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Spruce Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Birch Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Jungle Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Acacia Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Dark Oak Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Mangrove Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Cherry Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Crimson Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Warped Planks",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Oak Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Spruce Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Birch Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Jungle Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Acacia Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Dark Oak Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Mangrove Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Cherry Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Crimson Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Warped Stairs",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Oak Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Spruce Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Birch Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Jungle Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Acacia Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Dark Oak Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Mangrove Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Cherry Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Crimson Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Warped Slab",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Oak Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Spruce Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Birch Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 33
+  },
+  {
+    "item": "Jungle Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 34
+  },
+  {
+    "item": "Acacia Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 35
+  },
+  {
+    "item": "Dark Oak Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 36
+  },
+  {
+    "item": "Mangrove Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 37
+  },
+  {
+    "item": "Cherry Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 38
+  },
+  {
+    "item": "Crimson Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 39
+  },
+  {
+    "item": "Warped Fence",
+    "tower": "South",
+    "floor": 2,
+    "side": "left",
+    "value": 40
+  },
+  {
+    "item": "Ender Chest",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Purpur Slab",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Purpur Stairs",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Purpur Pillar",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Purpur Block",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "End Stone Brick Wall",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "End Stone Brick Slab",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "End Stone Brick Stairs",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "End Stone Bricks",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "End Stone",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Conduit",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Dark Prismarine Slab",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Dark Prismarine Stairs",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Dark Prismarine",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Prismarine Brick Slab",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Prismarine Brick Stairs",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Prismarine Bricks",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Prismarine Wall",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Prismarine Slab",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Prismarine Stairs",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Prismarine",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Terracotta",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Glass Pane",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Tinted Glass",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Bee Nest",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Enchanting Table",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Armor Stand",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Item Frame",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Glow Item Frame",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Sculk Vein",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Sculk",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Sculk Catalyst",
+    "tower": "South",
+    "floor": 3,
+    "side": "left",
+    "value": 32
+  },
+  {
+    "item": "Redstone Torch",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 1
+  },
+  {
+    "item": "Redstone Repeater",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 2
+  },
+  {
+    "item": "Redstone Comparator",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 3
+  },
+  {
+    "item": "Calibrated Sculk Sensor",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 4
+  },
+  {
+    "item": "Sculk Sensor",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 5
+  },
+  {
+    "item": "Light Weighted Pressure Plate",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 6
+  },
+  {
+    "item": "Heavy Weighted Pressure Plate",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 7
+  },
+  {
+    "item": "Lever",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 8
+  },
+  {
+    "item": "Target",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 9
+  },
+  {
+    "item": "Sculk Shrieker",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 10
+  },
+  {
+    "item": "Piston",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 11
+  },
+  {
+    "item": "Sticky Piston",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 12
+  },
+  {
+    "item": "Tripwire Hook",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 13
+  },
+  {
+    "item": "Lectern",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 14
+  },
+  {
+    "item": "Daylight Detector",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 15
+  },
+  {
+    "item": "Lightning Rod",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 16
+  },
+  {
+    "item": "Dispenser",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 17
+  },
+  {
+    "item": "Dropper",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 18
+  },
+  {
+    "item": "Slime Block",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 19
+  },
+  {
+    "item": "Honey Block",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 20
+  },
+  {
+    "item": "Hopper",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 21
+  },
+  {
+    "item": "Chest",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 22
+  },
+  {
+    "item": "Barrel",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 23
+  },
+  {
+    "item": "Chiseled Bookshelf",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 24
+  },
+  {
+    "item": "Trapped Chest",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 25
+  },
+  {
+    "item": "Jukebox",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 26
+  },
+  {
+    "item": "Observer",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 27
+  },
+  {
+    "item": "Note Block",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 28
+  },
+  {
+    "item": "Rail",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 29
+  },
+  {
+    "item": "Powered Rail",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 30
+  },
+  {
+    "item": "Detector Rail",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 31
+  },
+  {
+    "item": "Activator Rail",
+    "tower": "South",
+    "floor": 4,
+    "side": "left",
+    "value": 32
+  }
+]
